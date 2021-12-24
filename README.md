@@ -1,18 +1,16 @@
 <img width="100%" src="/cabecera.png"></img>
 
-<h1 align="center"> Hola! Soy Sandra :) </h1>
+<h1 align="center"> Hola! :)</h1>
 
-## :blush: Sobre mi:
+## :blush: Sobre mi
 
-Soy diseñadora gráfica y full Stack developer. Me apasiona el diseño y el desarrollo de aplicaciones móviles, también, el diseño y desarrollo web.
+Soy Sandra, diseñadora gráfica y full Stack developer. Me apasiona el diseño y el desarrollo de aplicaciones móviles, también, el diseño y desarrollo web.
 
 Creo en que la combinación de un buen diseño, un código limpio, estructurado y bien optimizado, es la clave del éxito de cualquier programa.
 
 Soy una persona con muchas ganas de aprender y de mejorar constantemente, siempre estoy dispuesta a nuevas propuestas y a renovar mis conocimientos.
 
-Me adapto fácilmente a los distintos tipos de tareas y gracias a mi interés y motivación aprendo con mucha facilidad. Soy muy trabajadora, responsable, eficiente y bastante polifacética.
-
-## :computer: Para desarrollar trabajo con tecnologías y herramientas como:
+## :computer: Para desarrollar trabajo con tecnologías y herramientas como
 
 Frontend: React Native | React | Redux | Next | Typescript | Firebase | Bootstrap | HTML | CSS | SASS | BEM
 
@@ -35,8 +33,16 @@ Servicios: Heroku | Vercel | Netlify
     </a>
 </p>
 
-## :email: ¡Contacta conmigo!
+## :cherry_blossom: ¡Contacta conmigo!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandraqs/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanquesan@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandraQS?tab=repositories)
+<p align="center">
+    <a href="https://www.linkedin.com/in/sandraqs/">
+         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="mailto:sanquesan@gmail.com">
+        <img src="https://img.shields.io/badge/sanquesan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/SandraQS?tab=repositories">
+         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+</p>
