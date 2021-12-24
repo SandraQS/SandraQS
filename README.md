@@ -37,7 +37,7 @@ Servicios: Heroku | Vercel | Netlify
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sandraqs/">
-         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Sandra%20QS%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:sanquesan@gmail.com">
         <img src="https://img.shields.io/badge/sanquesan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
